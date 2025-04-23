@@ -23,7 +23,7 @@
 
 ## 📫 Puedes contactarme en...
 - **Correo:** mateitor13@gmail.com
-- **LinkedIn:** [linkedin.com/in/mateor13]([https://www.linkedin.com/in/mateor13](https://www.linkedin.com/in/mateo-aldair-torres-lara-443677355)) 
+- **LinkedIn:** [linkedin.com/in/mateor13](https://www.linkedin.com/in/mateo-aldair-torres-lara-443677355) 
 - **Twitter/X:** [@mateor13](https://twitter.com/Teo_torres1309) 
 
 ## ⚡ Fun fact:
