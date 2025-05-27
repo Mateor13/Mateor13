@@ -3,6 +3,7 @@
 ¡Bienvenido a mi perfil de GitHub!  
 Soy desarrollador apasionado por crear soluciones útiles, limpias y escalables. Aquí comparto proyectos personales, ideas creativas y herramientas que pueden hacer la vida (y el desarrollo) un poco más fácil 🚀
 
+![Programming](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk3NXlidWJ0ZGZla2d3Mjh5YnF5dWNweWV0eW81bXl2cWhvM2ZkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 ---
 
 ## 👀 Intereses actuales
